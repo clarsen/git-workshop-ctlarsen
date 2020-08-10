@@ -4,7 +4,7 @@ ls -alR
 env
 
 exit 0
-And a bunch of stuff that isn't executed 
+# And a bunch of stuff that isn't executed 
 
 #!/bin/sh
 
