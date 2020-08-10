@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "This is two.sh"
 ls -alR
-
+# test pre-commit
 exit 0
 # And a bunch of stuff that isn't executed 
 
