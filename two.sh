@@ -1,7 +1,6 @@
 #!/bin/bash
 echo "This is two.sh"
 ls -alR
-env
 
 exit 0
 # And a bunch of stuff that isn't executed 
