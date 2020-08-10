@@ -1,0 +1,4 @@
+- branch local
+- commit
+- push to github
+- create pull request
